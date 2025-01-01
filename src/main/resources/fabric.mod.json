@@ -3,9 +3,9 @@
 	"id": "sectumid",
 	"version": "${version}",
 	"name": "Sectum",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Occult desert mod.",
 	"authors": [
-		"Me!"
+		"StrippyPajamas"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
